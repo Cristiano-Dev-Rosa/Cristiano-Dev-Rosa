@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Django...
 - 💞️ I’m looking to collaborate on Python Developer | Web Developer | Full Stack Developer | Front-end Developer | Back-end Developer
 - 📫 How to reach me www.linkedin.com/in/cristianooliveirarosa
-- 😄 Pronouns: he | his
+- 😄 Pronouns: he | him
 - ⚡ Fun fact: In 2017, I embarked on an enriching cultural exchange experience to Australia.
                This immersion not only improved my English language proficiency,
                but also provided an in-depth understanding of the local culture.
